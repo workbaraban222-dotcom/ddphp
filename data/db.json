@@ -1,0 +1,1186 @@
+{
+    "content":  {
+                    "brandName":  "DOUBLE DAMAGE",
+                    "brandMark":  "DD",
+                    "telegramUrl":  "https://t.me/",
+                    "heroImage":  "",
+                    "heroImageLight":  "",
+                    "heroImageDark":  "",
+                    "telegramImage":  "",
+                    "shopVipLeftImage":  "",
+                    "shopVipLeftUrl":  "",
+                    "shopVipRightImage":  "",
+                    "shopVipRightUrl":  "",
+                    "partnerCtaEyebrow":  {
+                                              "ua":  "РџР°СЂС‚РЅРµСЂСЃС‚РІРѕ",
+                                              "en":  "Partnership",
+                                              "ru":  "РџР°СЂС‚РЅРµСЂСЃС‚РІРѕ"
+                                          },
+                    "partnerCtaTitle":  {
+                                            "ua":  "РЎРўРђРўР РџРђР РўРќР•Р РћРњ DOUBLE DAMAGE",
+                                            "en":  "BECOME A DOUBLE DAMAGE PARTNER",
+                                            "ru":  "РЎРўРђРўР¬ РџРђР РўРќР•Р РћРњ DOUBLE DAMAGE"
+                                        },
+                    "partnerCtaText":  {
+                                           "ua":  "Р—Р°Р»РёС€С‚Рµ РєРѕРЅС‚Р°РєС‚ Р°Р±Рѕ РЅР°РїРёС€С–С‚СЊ РЅР°Рј Сѓ Telegram - РѕР±РіРѕРІРѕСЂРёРјРѕ С‚СЂР°С„С–Рє, РїРѕСЃС‚Р°С‡Р°РЅРЅСЏ, РїСЂРѕРјРѕРєРѕРґРё С‚Р° СЃРїС–Р»СЊРЅС– Р·Р°РїСѓСЃРєРё.",
+                                           "en":  "Leave a contact or message us on Telegram - we will discuss traffic, supply, promo codes and joint launches.",
+                                           "ru":  "РћСЃС‚Р°РІСЊС‚Рµ РєРѕРЅС‚Р°РєС‚ РёР»Рё РЅР°РїРёС€РёС‚Рµ РЅР°Рј РІ Telegram - РѕР±СЃСѓРґРёРј С‚СЂР°С„РёРє, РїРѕСЃС‚Р°РІРєРё, РїСЂРѕРјРѕРєРѕРґС‹ Рё СЃРѕРІРјРµСЃС‚РЅС‹Рµ Р·Р°РїСѓСЃРєРё."
+                                       },
+                    "partnerCtaButton":  {
+                                             "ua":  "Р—РІ\u0027СЏР·Р°С‚РёСЃСЏ",
+                                             "en":  "Contact us",
+                                             "ru":  "РЎРІСЏР·Р°С‚СЊСЃСЏ"
+                                         },
+                    "heroEyebrow":  {
+                                        "ua":  "Р Р°СЃС…РѕРґРЅРёРєРё РґР»СЏ Р°СЂР±РёС‚СЂР°Р¶Р°",
+                                        "en":  "Traffic arbitrage supplies",
+                                        "ru":  "Р Р°СЃС…РѕРґРЅРёРєРё РґР»СЏ Р°СЂР±РёС‚СЂР°Р¶Р°"
+                                    },
+                    "heroTitle":  {
+                                      "ua":  "Р РђРЎРҐРћР”РќРРљР Р”Р›РЇ РђР Р‘РРўР РђР–Рђ",
+                                      "en":  "TRAFFIC SUPPLY MARKET",
+                                      "ru":  "Р РђРЎРҐРћР”РќРРљР Р”Р›РЇ РђР Р‘РРўР РђР–Рђ"
+                                  },
+                    "heroLead":  {
+                                     "ua":  "РђРєРєР°СѓРЅС‚С‹, СЃРµСЂРІРёСЃС‹, РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹ Рё digital-СЂР°СЃС…РѕРґРЅРёРєРё РґР»СЏ РјРµРґРёР°Р±Р°РµСЂРѕРІ, Telegram-РєРѕРјР°РЅРґ, SMM Рё С‚СЂР°С„РёРє-РїСЂРѕРµРєС‚РѕРІ. Р‘С‹СЃС‚СЂРѕ. Р–РёСЂРЅРѕ. Р‘РµР· Р»РёС€РЅРµРіРѕ С€СѓРјР°.",
+                                     "en":  "Accounts, services, tools and digital supplies for media buyers, Telegram teams, SMM and traffic projects. Fast. Heavy. No noise.",
+                                     "ru":  "РђРєРєР°СѓРЅС‚С‹, СЃРµСЂРІРёСЃС‹, РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹ Рё digital-СЂР°СЃС…РѕРґРЅРёРєРё РґР»СЏ РјРµРґРёР°Р±Р°РµСЂРѕРІ, Telegram-РєРѕРјР°РЅРґ, SMM Рё С‚СЂР°С„РёРє-РїСЂРѕРµРєС‚РѕРІ. Р‘С‹СЃС‚СЂРѕ. Р–РёСЂРЅРѕ. Р‘РµР· Р»РёС€РЅРµРіРѕ С€СѓРјР°."
+                                 },
+                    "shopPageTitle":  {
+                                          "ua":  "DOUBLE DAMAGE SHOP",
+                                          "en":  "DOUBLE DAMAGE SHOP",
+                                          "ru":  "DOUBLE DAMAGE SHOP"
+                                      },
+                    "shopPageText":  {
+                                         "ua":  "РђРєР°СѓРЅС‚Рё, СЃРµСЂРІС–СЃРё, С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё С‚Р° digital-СЂРѕР·С…С–РґРЅРёРєРё РґР»СЏ С‚СЂР°С„С–РєСѓ.",
+                                         "en":  "Accounts, services, tools and digital supplies for traffic.",
+                                         "ru":  "РђРєРєР°СѓРЅС‚С‹, СЃРµСЂРІРёСЃС‹, РёРЅСЃС‚СЂСѓРјРµРЅС‚С‹ Рё digital-СЂР°СЃС…РѕРґРЅРёРєРё РґР»СЏ С‚СЂР°С„РёРєР°."
+                                     },
+                    "guidesPageTitle":  {
+                                            "ua":  "РќРѕРІРёРЅРё",
+                                            "en":  "News",
+                                            "ru":  "РќРѕРІРѕСЃС‚Рё"
+                                        },
+                    "guidesPageText":  {
+                                           "ua":  "РњР°С‚РµСЂС–Р°Р»Рё РїСЂРѕ Р°СЂР±С–С‚СЂР°Р¶, РєСЂРёРїС‚РѕРІР°Р»СЋС‚Сѓ, РјР°СЂРєРµС‚РёРЅРі С‚Р° digital-СЂРёРЅРѕРє.",
+                                           "en":  "Materials about arbitrage, crypto, marketing and the digital market.",
+                                           "ru":  "РњР°С‚РµСЂРёР°Р»С‹ РїСЂРѕ Р°СЂР±РёС‚СЂР°Р¶, РєСЂРёРїС‚РѕРІР°Р»СЋС‚Сѓ, РјР°СЂРєРµС‚РёРЅРі Рё digital-СЂС‹РЅРѕРє."
+                                       },
+                    "eventsPageTitle":  {
+                                            "ua":  "РџРѕРґС–С—",
+                                            "en":  "Events",
+                                            "ru":  "РЎРѕР±С‹С‚РёСЏ"
+                                        },
+                    "eventsPageText":  {
+                                           "ua":  "РђРЅРѕРЅСЃРё РєРѕРЅС„РµСЂРµРЅС†С–Р№, РґСЂРѕРїС–РІ, РѕРЅРѕРІР»РµРЅРЅСЏ РјР°РіР°Р·РёРЅСѓ С‚Р° СЃРїРµС†С–Р°Р»СЊРЅС– РїСЂРѕРїРѕР·РёС†С–С—.",
+                                           "en":  "Conference announcements, drops, store updates and special offers.",
+                                           "ru":  "РђРЅРѕРЅСЃС‹ РєРѕРЅС„РµСЂРµРЅС†РёР№, РґСЂРѕРїРѕРІ, РѕР±РЅРѕРІР»РµРЅРёСЏ РјР°РіР°Р·РёРЅР° Рё СЃРїРµС†РёР°Р»СЊРЅС‹Рµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ."
+                                       },
+                    "partnersPageTitle":  {
+                                              "ua":  "РџР°СЂС‚РЅРµСЂРё",
+                                              "en":  "Partners",
+                                              "ru":  "РџР°СЂС‚РЅРµСЂС‹"
+                                          },
+                    "partnersPageText":  {
+                                             "ua":  "РџР°СЂС‚РЅРµСЂСЃСЊРєС– РїСЂРѕРїРѕР·РёС†С–С—, РїСЂРѕРјРѕРєРѕРґРё С‚Р° РєРѕСЂРёСЃРЅС– СЃРµСЂРІС–СЃРё DOUBLE DAMAGE.",
+                                             "en":  "Partner offers, promo codes and useful DOUBLE DAMAGE services.",
+                                             "ru":  "РџР°СЂС‚РЅРµСЂСЃРєРёРµ РїСЂРµРґР»РѕР¶РµРЅРёСЏ, РїСЂРѕРјРѕРєРѕРґС‹ Рё РїРѕР»РµР·РЅС‹Рµ СЃРµСЂРІРёСЃС‹ DOUBLE DAMAGE."
+                                         },
+                    "replacePageTitle":  {
+                                             "ua":  "Р—Р°СЏРІРєР° РЅР° Р·Р°РјС–РЅСѓ С‚РѕРІР°СЂСѓ",
+                                             "en":  "Product replacement request",
+                                             "ru":  "Р—Р°СЏРІРєР° РЅР° Р·Р°РјРµРЅСѓ С‚РѕРІР°СЂР°"
+                                         },
+                    "replacePageText":  {
+                                            "ua":  "Р©РѕР± РѕС„РѕСЂРјРёС‚Рё Р·Р°РјС–РЅСѓ, РЅР°РїРёС€С–С‚СЊ Сѓ РїС–РґС‚СЂРёРјРєСѓ РЅРѕРјРµСЂ Р·Р°РјРѕРІР»РµРЅРЅСЏ, РѕРїРёС€С–С‚СЊ РїСЂРѕР±Р»РµРјСѓ, РІРєР°Р¶С–С‚СЊ СЃРїРёСЃРѕРє РЅРµРІР°Р»С–РґРЅРёС… Р°РєР°СѓРЅС‚С–РІ С– РїСЂРёРєСЂС–РїС–С‚СЊ СЃРєСЂРёРЅС€РѕС‚ РїРѕРјРёР»РєРё.",
+                                            "en":  "To request a replacement, send support your order number, describe the issue, list invalid accounts and attach an error screenshot.",
+                                            "ru":  "Р§С‚РѕР±С‹ РѕС„РѕСЂРјРёС‚СЊ Р·Р°РјРµРЅСѓ, РЅР°РїРёС€РёС‚Рµ РІ РїРѕРґРґРµСЂР¶РєСѓ РЅРѕРјРµСЂ Р·Р°РєР°Р·Р°, РѕРїРёС€РёС‚Рµ РїСЂРѕР±Р»РµРјСѓ, СѓРєР°Р¶РёС‚Рµ СЃРїРёСЃРѕРє РЅРµРІР°Р»РёРґРЅС‹С… Р°РєРєР°СѓРЅС‚РѕРІ Рё РїСЂРёРєСЂРµРїРёС‚Рµ СЃРєСЂРёРЅС€РѕС‚ РѕС€РёР±РєРё."
+                                        },
+                    "replaceExampleTitle":  {
+                                                "ua":  "РџСЂРёРєР»Р°Рґ Р·Р°СЏРІРєРё",
+                                                "en":  "Request example",
+                                                "ru":  "РџСЂРёРјРµСЂ Р·Р°СЏРІРєРё"
+                                            },
+                    "replaceExampleText":  {
+                                               "ua":  "#11111\nРђРєР°СѓРЅС‚ Р·Р°Р±Р»РѕРєРѕРІР°РЅРёР№ / РЅРµРІС–СЂРЅРёР№ Р»РѕРіС–РЅ Р°Р±Рѕ РїР°СЂРѕР»СЊ / С‚РѕРІР°СЂ РЅРµ РІС–РґРїРѕРІС–РґР°С” РѕРїРёСЃСѓ.\nРЎРїРёСЃРѕРє Р°РєР°СѓРЅС‚С–РІ Р°Р±Рѕ РґР°РЅС– С‚РѕРІР°СЂСѓ.\nРЎРєСЂРёРЅС€РѕС‚ РїРѕРјРёР»РєРё.",
+                                               "en":  "#11111\nAccount blocked / wrong login or password / product does not match the description.\nAccount list or product data.\nError screenshot.",
+                                               "ru":  "#11111\nРђРєРєР°СѓРЅС‚ Р·Р°Р±Р»РѕРєРёСЂРѕРІР°РЅ / РЅРµРІРµСЂРЅС‹Р№ Р»РѕРіРёРЅ РёР»Рё РїР°СЂРѕР»СЊ / С‚РѕРІР°СЂ РЅРµ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РѕРїРёСЃР°РЅРёСЋ.\nРЎРїРёСЃРѕРє Р°РєРєР°СѓРЅС‚РѕРІ РёР»Рё РґР°РЅРЅС‹Рµ С‚РѕРІР°СЂР°.\nРЎРєСЂРёРЅС€РѕС‚ РѕС€РёР±РєРё."
+                                           },
+                    "replaceButtonText":  {
+                                              "ua":  "РћРЅР»Р°Р№РЅ РїС–РґС‚СЂРёРјРєР° РїРѕ Р·Р°РјС–РЅС–",
+                                              "en":  "Replacement support online",
+                                              "ru":  "РћРЅР»Р°Р№РЅ РїРѕРґРґРµСЂР¶РєР° РїРѕ Р·Р°РјРµРЅРµ"
+                                          },
+                    "replaceTermsTitle":  {
+                                              "ua":  "РЈРјРѕРІРё Р·Р°РјС–РЅРё С‚РѕРІР°СЂСѓ",
+                                              "en":  "Replacement terms",
+                                              "ru":  "РЈСЃР»РѕРІРёСЏ Р·Р°РјРµРЅС‹ С‚РѕРІР°СЂР°"
+                                          },
+                    "replaceTermsText":  {
+                                             "ua":  "Р—Р°СЏРІРєР° СЂРѕР·РіР»СЏРґР°С”С‚СЊСЃСЏ РїС–СЃР»СЏ РїРµСЂРµРІС–СЂРєРё Р·Р°РјРѕРІР»РµРЅРЅСЏ С‚Р° РѕРїРёСЃСѓ РїСЂРѕР±Р»РµРјРё. РЈРјРѕРІРё РјРѕР¶СѓС‚СЊ Р·Р°Р»РµР¶Р°С‚Рё РІС–Рґ РєРѕРЅРєСЂРµС‚РЅРѕРіРѕ С‚РѕРІР°СЂСѓ С– РїРѕСЃС‚Р°С‡Р°Р»СЊРЅРёРєР°, С‚РѕРјСѓ РїРµСЂРµРґ РїРѕРєСѓРїРєРѕСЋ СѓРІР°Р¶РЅРѕ РґРёРІС–С‚СЊСЃСЏ РѕРїРёСЃ РїРѕР·РёС†С–С—.",
+                                             "en":  "The request is reviewed after checking the order and issue description. Terms may depend on the specific product and supplier, so review the product description before purchase.",
+                                             "ru":  "Р—Р°СЏРІРєР° СЂР°СЃСЃРјР°С‚СЂРёРІР°РµС‚СЃСЏ РїРѕСЃР»Рµ РїСЂРѕРІРµСЂРєРё Р·Р°РєР°Р·Р° Рё РѕРїРёСЃР°РЅРёСЏ РїСЂРѕР±Р»РµРјС‹. РЈСЃР»РѕРІРёСЏ РјРѕРіСѓС‚ Р·Р°РІРёСЃРµС‚СЊ РѕС‚ РєРѕРЅРєСЂРµС‚РЅРѕРіРѕ С‚РѕРІР°СЂР° Рё РїРѕСЃС‚Р°РІС‰РёРєР°, РїРѕСЌС‚РѕРјСѓ РїРµСЂРµРґ РїРѕРєСѓРїРєРѕР№ РІРЅРёРјР°С‚РµР»СЊРЅРѕ СЃРјРѕС‚СЂРёС‚Рµ РѕРїРёСЃР°РЅРёРµ РїРѕР·РёС†РёРё."
+                                         },
+                    "promoCode":  "DAMAGE10",
+                    "contactEyebrow":  {
+                                           "ua":  "Р—Р°РїРёС‚ РїРѕСЃС‚Р°РІРєРё",
+                                           "en":  "Custom request",
+                                           "ru":  "Р—Р°РїСЂРѕСЃ РїРѕСЃС‚Р°РІРєРё"
+                                       },
+                    "contactTitle":  {
+                                         "ua":  "РџРѕС‚СЂС–Р±РµРЅ СЃРІС–Р№ СЃРµС‚Р°Рї? Р—Р±РµСЂРµРјРѕ РїС–Рґ Р·Р°РґР°С‡Сѓ",
+                                         "en":  "Need a custom setup? We will build it",
+                                         "ru":  "РќСѓР¶РµРЅ СЃРІРѕР№ СЃРµС‚Р°Рї? РЎРѕР±РµСЂРµРј РїРѕРґ Р·Р°РґР°С‡Сѓ"
+                                     },
+                    "contactText":  {
+                                        "ua":  "Р¤РѕСЂРјР° Р·Р°Р»РёС€РµРЅР° РїСЂСЏРјРѕ РЅР° Р»РµРЅРґРёРЅРіСѓ: РїРѕРєСѓРїРµС†СЊ РјРѕР¶Рµ РЅР°РїРёСЃР°С‚Рё, С‰Рѕ СЃР°РјРµ Р№РѕРјСѓ РїРѕС‚СЂС–Р±РЅРѕ, Р° РєРѕС€РёРє Р·Р±РёСЂР°С” РіРѕС‚РѕРІС– РїРѕР·РёС†С–С— Р· РєР°С‚Р°Р»РѕРіСѓ.",
+                                        "en":  "The form stays on the landing page: a buyer can describe the request while the cart collects ready catalog items.",
+                                        "ru":  "Р¤РѕСЂРјР° РѕСЃС‚Р°РІР»РµРЅР° РїСЂСЏРјРѕ РЅР° Р»РµРЅРґРёРЅРіРµ: РїРѕРєСѓРїР°С‚РµР»СЊ РјРѕР¶РµС‚ РЅР°РїРёСЃР°С‚СЊ, С‡С‚Рѕ РёРјРµРЅРЅРѕ РµРјСѓ РЅСѓР¶РЅРѕ, Р° РєРѕСЂР·РёРЅР° СЃРѕР±РёСЂР°РµС‚ РіРѕС‚РѕРІС‹Рµ РїРѕР·РёС†РёРё РёР· РєР°С‚Р°Р»РѕРіР°."
+                                    },
+                    "finalEyebrow":  {
+                                         "ua":  "Traffic supply",
+                                         "en":  "Traffic supply",
+                                         "ru":  "Traffic supply"
+                                     },
+                    "finalTitle":  {
+                                       "ua":  "РџРћРўР Р†Р‘РќР† Р РћР—РҐР†Р”РќРРљР РџР†Р” РўР РђР¤Р†Рљ?",
+                                       "en":  "NEED SUPPLIES FOR TRAFFIC?",
+                                       "ru":  "РќРЈР–РќР« Р РђРЎРҐРћР”РќРРљР РџРћР” РўР РђР¤РРљ?"
+                                   },
+                    "finalText":  {
+                                      "ua":  "Р’С–РґРєСЂРёР№ РєР°С‚Р°Р»РѕРі Р°Р±Рѕ РЅР°РїРёС€Рё РЅР°Рј РІ Telegram - РїС–РґР±РµСЂРµРјРѕ РїРѕС‚СЂС–Р±РЅС– РїРѕР·РёС†С–С— РїС–Рґ С‚РІРѕСЋ Р·Р°РґР°С‡Сѓ.",
+                                      "en":  "Open the catalog or message us on Telegram - we will pick the right items for your task.",
+                                      "ru":  "РћС‚РєСЂРѕР№ РєР°С‚Р°Р»РѕРі РёР»Рё РЅР°РїРёС€Рё РЅР°Рј РІ Telegram - РїРѕРґР±РµСЂРµРј РЅСѓР¶РЅС‹Рµ РїРѕР·РёС†РёРё РїРѕРґ С‚РІРѕСЋ Р·Р°РґР°С‡Сѓ."
+                                  }
+                },
+    "visibility":  {
+                       "header":  true,
+                       "headerNav":  true,
+                       "langSwitch":  true,
+                       "themeToggle":  true,
+                       "telegramHeaderButton":  true,
+                       "adminButton":  true,
+                       "cartButton":  true,
+                       "hero":  true,
+                       "heroEyebrow":  true,
+                       "heroTitle":  true,
+                       "heroLead":  true,
+                       "heroCatalogButton":  true,
+                       "heroTelegramButton":  true,
+                       "heroPromo":  true,
+                       "heroTrust":  true,
+                       "heroImage":  true,
+                       "paymentStrip":  true,
+                       "stats":  true,
+                       "drops":  false,
+                       "advantages":  true,
+                       "homeCategories":  true,
+                       "pages":  false,
+                       "telegramBlock":  true,
+                       "workSteps":  true,
+                       "reviews":  true,
+                       "homeNews":  true,
+                       "partnerCta":  true,
+                       "contact":  true,
+                       "faq":  true,
+                       "finalCta":  true,
+                       "footer":  true,
+                       "shopHero":  true,
+                       "shopCategories":  true,
+                       "shopFilters":  true,
+                       "shopProducts":  true,
+                       "shopVipBanners":  true,
+                       "infoHero":  true
+                   },
+    "coupons":  [
+                    {
+                        "code":  "DAMAGE10",
+                        "discount":  10,
+                        "active":  true
+                    },
+                    {
+                        "code":  "DD2026",
+                        "discount":  10,
+                        "active":  true
+                    }
+                ],
+    "paymentStrip":  [
+                         {
+                             "icon":  "в‚®",
+                             "title":  {
+                                           "ua":  "USDT / CRYPTO",
+                                           "en":  "USDT / CRYPTO",
+                                           "ru":  "USDT / CRYPTO"
+                                       },
+                             "text":  {
+                                          "ua":  "TRC20, ERC20, BTC, ETH",
+                                          "en":  "TRC20, ERC20, BTC, ETH",
+                                          "ru":  "TRC20, ERC20, BTC, ETH"
+                                      }
+                         },
+                         {
+                             "icon":  "в‚ґ",
+                             "title":  {
+                                           "ua":  "UAH / CARD",
+                                           "en":  "UAH / CARD",
+                                           "ru":  "UAH / CARD"
+                                       },
+                             "text":  {
+                                          "ua":  "РџРµСЂРµРєР°Р· РЅР° РєР°СЂС‚Сѓ",
+                                          "en":  "Bank card transfer",
+                                          "ru":  "РџРµСЂРµРІРѕРґ РЅР° РєР°СЂС‚Сѓ"
+                                      }
+                         },
+                         {
+                             "icon":  "%",
+                             "title":  {
+                                           "ua":  "РџРѕСЃС‚С–Р№РЅРёРј РєР»С–С”РЅС‚Р°Рј",
+                                           "en":  "Regular clients",
+                                           "ru":  "РџРѕСЃС‚РѕСЏРЅРЅС‹Рј РєР»РёРµРЅС‚Р°Рј"
+                                       },
+                             "text":  {
+                                          "ua":  "РЅР°РєРѕРїРёС‡СѓРІР°Р»СЊРЅР° Р·РЅРёР¶РєР° 5-10%",
+                                          "en":  "loyalty discount 5-10%",
+                                          "ru":  "РЅР°РєРѕРїРёС‚РµР»СЊРЅР°СЏ СЃРєРёРґРєР° 5-10%"
+                                      }
+                         }
+                     ],
+    "stats":  [
+                  {
+                      "value":  "148",
+                      "label":  {
+                                    "ua":  "РїРѕР·РёС†С–Р№ Сѓ РєР°С‚Р°Р»РѕР·С–",
+                                    "en":  "catalog items",
+                                    "ru":  "РїРѕР·РёС†РёР№ РІ РєР°С‚Р°Р»РѕРіРµ"
+                                }
+                  },
+                  {
+                      "value":  "24/7",
+                      "label":  {
+                                    "ua":  "РїС–РґС‚СЂРёРјРєР° Р·Р°РјРѕРІР»РµРЅСЊ",
+                                    "en":  "order support",
+                                    "ru":  "РїРѕРґРґРµСЂР¶РєР° Р·Р°РєР°Р·РѕРІ"
+                                }
+                  },
+                  {
+                      "value":  "5",
+                      "label":  {
+                                    "ua":  "СЂРѕРєС–РІ РґРѕСЃРІС–РґСѓ",
+                                    "en":  "years of experience",
+                                    "ru":  "Р»РµС‚ РѕРїС‹С‚Р°"
+                                }
+                  },
+                  {
+                      "value":  "10%",
+                      "label":  {
+                                    "ua":  "СЃС‚Р°СЂС‚РѕРІРёР№ РїСЂРѕРјРѕРєРѕРґ",
+                                    "en":  "starter promo code",
+                                    "ru":  "СЃС‚Р°СЂС‚РѕРІС‹Р№ РїСЂРѕРјРѕРєРѕРґ"
+                                }
+                  }
+              ],
+    "advantages":  [
+                       {
+                           "icon":  "в†—",
+                           "text":  {
+                                        "ua":  "Р”РѕСЃРІС–Рґ СЂРѕР±РѕС‚Рё Р±С–Р»СЊС€Рµ 5 СЂРѕРєС–РІ",
+                                        "en":  "Over 5 years of experience",
+                                        "ru":  "РћРїС‹С‚ СЂР°Р±РѕС‚С‹ Р±РѕР»СЊС€Рµ 5 Р»РµС‚"
+                                    }
+                       },
+                       {
+                           "icon":  "в™•",
+                           "text":  {
+                                        "ua":  "Р’РёСЃРѕРєР° СЏРєС–СЃС‚СЊ Р°РєР°СѓРЅС‚С–РІ",
+                                        "en":  "High quality accounts",
+                                        "ru":  "Р’С‹СЃРѕРєРѕРµ РєР°С‡РµСЃС‚РІРѕ Р°РєРєР°СѓРЅС‚РѕРІ"
+                                    }
+                       },
+                       {
+                           "icon":  "в—Њ",
+                           "text":  {
+                                        "ua":  "Р†РЅРґРёРІС–РґСѓР°Р»СЊРЅРёР№ РїС–РґС…С–Рґ",
+                                        "en":  "Personal approach",
+                                        "ru":  "РРЅРґРёРІРёРґСѓР°Р»СЊРЅС‹Р№ РїРѕРґС…РѕРґ"
+                                    }
+                       },
+                       {
+                           "icon":  "Пџ",
+                           "text":  {
+                                        "ua":  "Р—СЂСѓС‡РЅР° РїРµСЂРµРґР°С‡Р° РґР°РЅРёС…",
+                                        "en":  "Convenient data transfer",
+                                        "ru":  "РЈРґРѕР±РЅР°СЏ РїРµСЂРµРґР°С‡Р° РґР°РЅРЅС‹С…"
+                                    }
+                       },
+                       {
+                           "icon":  "в—‡",
+                           "text":  {
+                                        "ua":  "РџРѕРІРЅРёР№ РґРѕСЃС‚СѓРї РґРѕ Р°РєР°СѓРЅС‚С–РІ",
+                                        "en":  "Full account access",
+                                        "ru":  "РџРѕР»РЅС‹Р№ РґРѕСЃС‚СѓРї Рє Р°РєРєР°СѓРЅС‚Р°Рј"
+                                    }
+                       },
+                       {
+                           "icon":  "вЏ",
+                           "text":  {
+                                        "ua":  "РџС–РґС‚СЂРёРјРєР° 24/7",
+                                        "en":  "24/7 support",
+                                        "ru":  "РџРѕРґРґРµСЂР¶РєР° 24/7"
+                                    }
+                       },
+                       {
+                           "icon":  "в—·",
+                           "text":  {
+                                        "ua":  "Р“РЅСѓС‡РєР° РїРѕР»С–С‚РёРєР° РїРѕРІРµСЂРЅРµРЅРЅСЏ",
+                                        "en":  "Flexible return policy",
+                                        "ru":  "Р“РёР±РєР°СЏ РїРѕР»РёС‚РёРєР° РІРѕР·РІСЂР°С‚Р°"
+                                    }
+                       },
+                       {
+                           "icon":  "вњ“",
+                           "text":  {
+                                        "ua":  "Р’СЃС– РІРµСЂС‚РёРєР°Р»С– СЃРѕС†С–Р°Р»СЊРЅРёС… РјРµСЂРµР¶",
+                                        "en":  "All social media verticals",
+                                        "ru":  "Р’СЃРµ РІРµСЂС‚РёРєР°Р»Рё СЃРѕС†РёР°Р»СЊРЅС‹С… СЃРµС‚РµР№"
+                                    }
+                       }
+                   ],
+    "workSteps":  [
+                      {
+                          "title":  {
+                                        "ua":  "Р’РёР±РµСЂС–С‚СЊ С‚РѕРІР°СЂ",
+                                        "en":  "Choose item",
+                                        "ru":  "Р’С‹Р±РµСЂРёС‚Рµ С‚РѕРІР°СЂ"
+                                    },
+                          "text":  {
+                                       "ua":  "РџРµСЂРµРіР»СЏРЅСЊС‚Рµ РєР°С‚Р°Р»РѕРі С‚Р° РѕР±РµСЂС–С‚СЊ РїРѕС‚СЂС–Р±РЅРёР№ С‚РѕРІР°СЂ",
+                                       "en":  "Browse the catalog and choose what you need",
+                                       "ru":  "РџСЂРѕСЃРјРѕС‚СЂРёС‚Рµ РєР°С‚Р°Р»РѕРі Рё РІС‹Р±РµСЂРёС‚Рµ РЅСѓР¶РЅС‹Р№ С‚РѕРІР°СЂ"
+                                   }
+                      },
+                      {
+                          "title":  {
+                                        "ua":  "РћС„РѕСЂРјС–С‚СЊ Р·Р°РјРѕРІР»РµРЅРЅСЏ",
+                                        "en":  "Place order",
+                                        "ru":  "РћС„РѕСЂРјРёС‚Рµ Р·Р°РєР°Р·"
+                                    },
+                          "text":  {
+                                       "ua":  "Р—Р°РїРѕРІРЅС–С‚СЊ С„РѕСЂРјСѓ Р· РЅРµРѕР±С…С–РґРЅРёРјРё РґР°РЅРёРјРё",
+                                       "en":  "Fill in the request form",
+                                       "ru":  "Р—Р°РїРѕР»РЅРёС‚Рµ С„РѕСЂРјСѓ СЃ РЅРµРѕР±С…РѕРґРёРјС‹РјРё РґР°РЅРЅС‹РјРё"
+                                   }
+                      },
+                      {
+                          "title":  {
+                                        "ua":  "Р—РґС–Р№СЃРЅС–С‚СЊ РѕРїР»Р°С‚Сѓ",
+                                        "en":  "Pay",
+                                        "ru":  "РћРїР»Р°С‚РёС‚Рµ"
+                                    },
+                          "text":  {
+                                       "ua":  "РћРїР»Р°С‚С–С‚СЊ Р·Р°РјРѕРІР»РµРЅРЅСЏ Р·СЂСѓС‡РЅРёРј СЃРїРѕСЃРѕР±РѕРј",
+                                       "en":  "Pay with a convenient method",
+                                       "ru":  "РћРїР»Р°С‚РёС‚Рµ СѓРґРѕР±РЅС‹Рј СЃРїРѕСЃРѕР±РѕРј"
+                                   }
+                      },
+                      {
+                          "title":  {
+                                        "ua":  "РћС‚СЂРёРјР°Р№С‚Рµ РґРѕСЃС‚СѓРї",
+                                        "en":  "Get access",
+                                        "ru":  "РџРѕР»СѓС‡РёС‚Рµ РґРѕСЃС‚СѓРї"
+                                    },
+                          "text":  {
+                                       "ua":  "РћС‚СЂРёРјР°Р№С‚Рµ РґРѕСЃС‚СѓРї РїС–СЃР»СЏ РѕРїР»Р°С‚Рё",
+                                       "en":  "Receive access after payment",
+                                       "ru":  "РџРѕР»СѓС‡РёС‚Рµ РґРѕСЃС‚СѓРї РїРѕСЃР»Рµ РѕРїР»Р°С‚С‹"
+                                   }
+                      },
+                      {
+                          "title":  {
+                                        "ua":  "РџС–РґС‚СЂРёРјРєР° 10:00-22:00",
+                                        "en":  "Support 10:00-22:00",
+                                        "ru":  "РџРѕРґРґРµСЂР¶РєР° 10:00-22:00"
+                                    },
+                          "text":  {
+                                       "ua":  "РљРѕРјР°РЅРґР° Р·Р°РІР¶РґРё РіРѕС‚РѕРІР° РґРѕРїРѕРјРѕРіС‚Рё",
+                                       "en":  "Our team is ready to help",
+                                       "ru":  "РљРѕРјР°РЅРґР° РІСЃРµРіРґР° РіРѕС‚РѕРІР° РїРѕРјРѕС‡СЊ"
+                                   }
+                      }
+                  ],
+    "reviews":  [
+                    {
+                        "name":  "Maksym",
+                        "text":  {
+                                     "ua":  "РЁРІРёРґРєРѕ РѕС‚СЂРёРјР°РІ РґРѕСЃС‚СѓРї, СѓСЃРµ РїСЂР°С†СЋС” СЏРє РѕРїРёСЃР°РЅРѕ.",
+                                     "en":  "Got access fast, everything works as described.",
+                                     "ru":  "Р‘С‹СЃС‚СЂРѕ РїРѕР»СѓС‡РёР» РґРѕСЃС‚СѓРї, РІСЃРµ СЂР°Р±РѕС‚Р°РµС‚ РєР°Рє РѕРїРёСЃР°РЅРѕ."
+                                 }
+                    },
+                    {
+                        "name":  "Artem",
+                        "text":  {
+                                     "ua":  "Р—СЂСѓС‡РЅРѕ, С‰Рѕ С” РєРѕС€РёРє С– РјРѕР¶РЅР° Р·С–Р±СЂР°С‚Рё РєС–Р»СЊРєР° РїРѕР·РёС†С–Р№.",
+                                     "en":  "The cart makes it easy to collect several items.",
+                                     "ru":  "РЈРґРѕР±РЅРѕ, С‡С‚Рѕ РµСЃС‚СЊ РєРѕСЂР·РёРЅР° Рё РјРѕР¶РЅРѕ СЃРѕР±СЂР°С‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РїРѕР·РёС†РёР№."
+                                 }
+                    },
+                    {
+                        "name":  "Daria",
+                        "text":  {
+                                     "ua":  "РџС–РґС‚СЂРёРјРєР° РґРѕРїРѕРјРѕРіР»Р° РїС–РґС–Р±СЂР°С‚Рё Р°РєР°СѓРЅС‚Рё РїС–Рґ Р·Р°РґР°С‡Сѓ.",
+                                     "en":  "Support helped pick accounts for my task.",
+                                     "ru":  "РџРѕРґРґРµСЂР¶РєР° РїРѕРјРѕРіР»Р° РїРѕРґРѕР±СЂР°С‚СЊ Р°РєРєР°СѓРЅС‚С‹ РїРѕРґ Р·Р°РґР°С‡Сѓ."
+                                 }
+                    }
+                ],
+    "products":  [
+                     {
+                         "id":  "starter-pack",
+                         "name":  {
+                                      "ua":  "Social Starter Pack",
+                                      "en":  "Social Starter Pack",
+                                      "ru":  "Social Starter Pack"
+                                  },
+                         "description":  {
+                                             "ua":  "РќР°Р±С–СЂ Р°РєР°СѓРЅС‚С–РІ РґР»СЏ С‚РµСЃС‚Сѓ РєРѕРЅС‚РµРЅС‚Сѓ С– РїРµСЂС€РёС… Р·Р°РїСѓСЃРєС–РІ.",
+                                             "en":  "A set of accounts for content tests and first launches.",
+                                             "ru":  "РќР°Р±РѕСЂ Р°РєРєР°СѓРЅС‚РѕРІ РґР»СЏ С‚РµСЃС‚Р° РєРѕРЅС‚РµРЅС‚Р° Рё РїРµСЂРІС‹С… Р·Р°РїСѓСЃРєРѕРІ."
+                                         },
+                         "category":  "bundle",
+                         "categoryLabel":  {
+                                               "ua":  "РќР°Р±С–СЂ",
+                                               "en":  "Bundle",
+                                               "ru":  "РќР°Р±РѕСЂ"
+                                           },
+                         "badge":  "DD",
+                         "status":  {
+                                        "ua":  "Top",
+                                        "en":  "Top",
+                                        "ru":  "Top"
+                                    },
+                         "price":  49,
+                         "featured":  true,
+                         "drop":  true
+                     },
+                     {
+                         "id":  "business-profile",
+                         "name":  {
+                                      "ua":  "Business Profile",
+                                      "en":  "Business Profile",
+                                      "ru":  "Business Profile"
+                                  },
+                         "description":  {
+                                             "ua":  "РџСЂРѕС„С–Р»СЊ РїС–Рґ СЂРµРєР»Р°РјРЅС– Р·Р°РґР°С‡С– С‚Р° РїСЂРѕРіСЂС–РІ РєР°РјРїР°РЅС–Р№.",
+                                             "en":  "Profile for ad tasks and campaign warm-up.",
+                                             "ru":  "РџСЂРѕС„РёР»СЊ РїРѕРґ СЂРµРєР»Р°РјРЅС‹Рµ Р·Р°РґР°С‡Рё Рё РїСЂРѕРіСЂРµРІ РєР°РјРїР°РЅРёР№."
+                                         },
+                         "category":  "ads",
+                         "categoryLabel":  {
+                                               "ua":  "Р РµРєР»Р°РјР°",
+                                               "en":  "Ads",
+                                               "ru":  "Р РµРєР»Р°РјР°"
+                                           },
+                         "badge":  "BP",
+                         "status":  {
+                                        "ua":  "Ads",
+                                        "en":  "Ads",
+                                        "ru":  "Ads"
+                                    },
+                         "price":  64,
+                         "featured":  false,
+                         "drop":  true
+                     },
+                     {
+                         "id":  "telegram-utility",
+                         "name":  {
+                                      "ua":  "Telegram Utility",
+                                      "en":  "Telegram Utility",
+                                      "ru":  "Telegram Utility"
+                                  },
+                         "description":  {
+                                             "ua":  "Р РѕР±РѕС‡РёР№ РєРѕРјРїР»РµРєС‚ РїС–Рґ РєРѕРјСѓРЅС–РєР°С†С–СЋ С– СЃРµСЂРІС–СЃРЅС– Р·Р°РґР°С‡С–.",
+                                             "en":  "A working kit for communication and service tasks.",
+                                             "ru":  "Р Р°Р±РѕС‡РёР№ РєРѕРјРїР»РµРєС‚ РїРѕРґ РєРѕРјРјСѓРЅРёРєР°С†РёСЋ Рё СЃРµСЂРІРёСЃРЅС‹Рµ Р·Р°РґР°С‡Рё."
+                                         },
+                         "category":  "social",
+                         "categoryLabel":  {
+                                               "ua":  "РЎРѕС†РјРµСЂРµР¶С–",
+                                               "en":  "Social",
+                                               "ru":  "РЎРѕС†СЃРµС‚Рё"
+                                           },
+                         "badge":  "TG",
+                         "status":  {
+                                        "ua":  "Fast",
+                                        "en":  "Fast",
+                                        "ru":  "Fast"
+                                    },
+                         "price":  35,
+                         "featured":  false,
+                         "drop":  true
+                     },
+                     {
+                         "id":  "instagram-aged",
+                         "name":  {
+                                      "ua":  "Instagram Aged",
+                                      "en":  "Instagram Aged",
+                                      "ru":  "Instagram Aged"
+                                  },
+                         "description":  {
+                                             "ua":  "Р’С–РєРѕРІС– РїСЂРѕС„С–Р»С– РїС–Рґ РєРѕРЅС‚РµРЅС‚, С‚РµСЃС‚Рё С– Рј\u0027СЏРєРёР№ РїСЂРѕРіСЂС–РІ.",
+                                             "en":  "Aged profiles for content, tests and soft warm-up.",
+                                             "ru":  "Р’РѕР·СЂР°СЃС‚РЅС‹Рµ РїСЂРѕС„РёР»Рё РїРѕРґ РєРѕРЅС‚РµРЅС‚, С‚РµСЃС‚С‹ Рё РјСЏРіРєРёР№ РїСЂРѕРіСЂРµРІ."
+                                         },
+                         "category":  "social",
+                         "categoryLabel":  {
+                                               "ua":  "РЎРѕС†РјРµСЂРµР¶С–",
+                                               "en":  "Social",
+                                               "ru":  "РЎРѕС†СЃРµС‚Рё"
+                                           },
+                         "badge":  "IG",
+                         "status":  {
+                                        "ua":  "Р’ РЅР°СЏРІРЅРѕСЃС‚С–",
+                                        "en":  "In stock",
+                                        "ru":  "Р’ РЅР°Р»РёС‡РёРё"
+                                    },
+                         "price":  29,
+                         "featured":  false,
+                         "drop":  false
+                     },
+                     {
+                         "id":  "tiktok-creator",
+                         "name":  {
+                                      "ua":  "TikTok Creator",
+                                      "en":  "TikTok Creator",
+                                      "ru":  "TikTok Creator"
+                                  },
+                         "description":  {
+                                             "ua":  "РџСЂРѕС„С–Р»С– РґР»СЏ РєРѕРЅС‚РµРЅС‚РЅРёС… РіС–РїРѕС‚РµР· С– С€РІРёРґРєРёС… Р·Р°РїСѓСЃРєС–РІ.",
+                                             "en":  "Profiles for content hypotheses and fast launches.",
+                                             "ru":  "РџСЂРѕС„РёР»Рё РґР»СЏ РєРѕРЅС‚РµРЅС‚РЅС‹С… РіРёРїРѕС‚РµР· Рё Р±С‹СЃС‚СЂС‹С… Р·Р°РїСѓСЃРєРѕРІ."
+                                         },
+                         "category":  "social",
+                         "categoryLabel":  {
+                                               "ua":  "РЎРѕС†РјРµСЂРµР¶С–",
+                                               "en":  "Social",
+                                               "ru":  "РЎРѕС†СЃРµС‚Рё"
+                                           },
+                         "badge":  "TT",
+                         "status":  {
+                                        "ua":  "Р’ РЅР°СЏРІРЅРѕСЃС‚С–",
+                                        "en":  "In stock",
+                                        "ru":  "Р’ РЅР°Р»РёС‡РёРё"
+                                    },
+                         "price":  39,
+                         "featured":  false,
+                         "drop":  false
+                     },
+                     {
+                         "id":  "facebook-ads",
+                         "name":  {
+                                      "ua":  "Facebook Ads Profile",
+                                      "en":  "Facebook Ads Profile",
+                                      "ru":  "Facebook Ads Profile"
+                                  },
+                         "description":  {
+                                             "ua":  "РџСЂРѕС„С–Р»СЊ РїС–Рґ СЂРµРєР»Р°РјРЅС– С‚РµСЃС‚Рё, РєР°РјРїР°РЅС–С— С– Р·РІ\u0027СЏР·РєРё.",
+                                             "en":  "Profile for ad tests, campaigns and funnels.",
+                                             "ru":  "РџСЂРѕС„РёР»СЊ РїРѕРґ СЂРµРєР»Р°РјРЅС‹Рµ С‚РµСЃС‚С‹, РєР°РјРїР°РЅРёРё Рё СЃРІСЏР·РєРё."
+                                         },
+                         "category":  "ads",
+                         "categoryLabel":  {
+                                               "ua":  "Р РµРєР»Р°РјР°",
+                                               "en":  "Ads",
+                                               "ru":  "Р РµРєР»Р°РјР°"
+                                           },
+                         "badge":  "FB",
+                         "status":  {
+                                        "ua":  "Hot",
+                                        "en":  "Hot",
+                                        "ru":  "Hot"
+                                    },
+                         "price":  64,
+                         "featured":  false,
+                         "drop":  false
+                     },
+                     {
+                         "id":  "gmail-workspace",
+                         "name":  {
+                                      "ua":  "Gmail Workspace",
+                                      "en":  "Gmail Workspace",
+                                      "ru":  "Gmail Workspace"
+                                  },
+                         "description":  {
+                                             "ua":  "РџРѕС€С‚РѕРІС– Р°РєР°СѓРЅС‚Рё РїС–Рґ СЂРµС”СЃС‚СЂР°С†С–СЋ С– СЂРѕР±РѕС‡С– РїСЂРѕС†РµСЃРё.",
+                                             "en":  "Mail accounts for registration and workflows.",
+                                             "ru":  "РџРѕС‡С‚РѕРІС‹Рµ Р°РєРєР°СѓРЅС‚С‹ РїРѕРґ СЂРµРіРёСЃС‚СЂР°С†РёСЋ Рё СЂР°Р±РѕС‡РёРµ РїСЂРѕС†РµСЃСЃС‹."
+                                         },
+                         "category":  "mail",
+                         "categoryLabel":  {
+                                               "ua":  "РџРѕС€С‚Р°",
+                                               "en":  "Mail",
+                                               "ru":  "РџРѕС‡С‚Р°"
+                                           },
+                         "badge":  "GM",
+                         "status":  {
+                                        "ua":  "Р’ РЅР°СЏРІРЅРѕСЃС‚С–",
+                                        "en":  "In stock",
+                                        "ru":  "Р’ РЅР°Р»РёС‡РёРё"
+                                    },
+                         "price":  18,
+                         "featured":  false,
+                         "drop":  false
+                     },
+                     {
+                         "id":  "damage-launch-kit",
+                         "name":  {
+                                      "ua":  "Damage Launch Kit",
+                                      "en":  "Damage Launch Kit",
+                                      "ru":  "Damage Launch Kit"
+                                  },
+                         "description":  {
+                                             "ua":  "РљРѕРјРїР»РµРєС‚ СЃРѕС†РјРµСЂРµР¶, РїРѕС€С‚Рё С– СЂРµРєР»Р°РјРЅРѕРіРѕ РїСЂРѕС„С–Р»СЋ РґР»СЏ СЃС‚Р°СЂС‚Сѓ.",
+                                             "en":  "Social, mail and ad profile kit for launch.",
+                                             "ru":  "РљРѕРјРїР»РµРєС‚ СЃРѕС†СЃРµС‚РµР№, РїРѕС‡С‚С‹ Рё СЂРµРєР»Р°РјРЅРѕРіРѕ РїСЂРѕС„РёР»СЏ РґР»СЏ СЃС‚Р°СЂС‚Р°."
+                                         },
+                         "category":  "bundle",
+                         "categoryLabel":  {
+                                               "ua":  "РќР°Р±С–СЂ",
+                                               "en":  "Bundle",
+                                               "ru":  "РќР°Р±РѕСЂ"
+                                           },
+                         "badge":  "DD",
+                         "status":  {
+                                        "ua":  "Bundle",
+                                        "en":  "Bundle",
+                                        "ru":  "Bundle"
+                                    },
+                         "price":  119,
+                         "featured":  false,
+                         "drop":  false
+                     },
+                     {
+                         "id":  "business-manager",
+                         "name":  {
+                                      "ua":  "Business Manager",
+                                      "en":  "Business Manager",
+                                      "ru":  "Business Manager"
+                                  },
+                         "description":  {
+                                             "ua":  "РЎРµС‚Р°Рї РґР»СЏ РєРѕРјР°РЅРґРЅРёС… СЂРµРєР»Р°РјРЅРёС… РїСЂРѕС†РµСЃС–РІ С– РјР°СЃС€С‚Р°Р±СѓРІР°РЅРЅСЏ.",
+                                             "en":  "Setup for team ad workflows and scaling.",
+                                             "ru":  "РЎРµС‚Р°Рї РґР»СЏ РєРѕРјР°РЅРґРЅС‹С… СЂРµРєР»Р°РјРЅС‹С… РїСЂРѕС†РµСЃСЃРѕРІ Рё РјР°СЃС€С‚Р°Р±РёСЂРѕРІР°РЅРёСЏ."
+                                         },
+                         "category":  "ads",
+                         "categoryLabel":  {
+                                               "ua":  "Р РµРєР»Р°РјР°",
+                                               "en":  "Ads",
+                                               "ru":  "Р РµРєР»Р°РјР°"
+                                           },
+                         "badge":  "BM",
+                         "status":  {
+                                        "ua":  "Limited",
+                                        "en":  "Limited",
+                                        "ru":  "Limited"
+                                    },
+                         "price":  92,
+                         "featured":  false,
+                         "drop":  false
+                     }
+                 ],
+    "categories":  [
+                       {
+                           "id":  "meta",
+                           "icon":  "в€ћ",
+                           "title":  {
+                                         "ua":  "Meta / Facebook",
+                                         "en":  "Meta / Facebook",
+                                         "ru":  "Meta / Facebook"
+                                     },
+                           "text":  {
+                                        "ua":  "РђРєР°СѓРЅС‚Рё, BM С‚Р° СЂРµРєР»Р°РјРЅС– Р°РєС‚РёРІРё.",
+                                        "en":  "Accounts, BM and ad assets.",
+                                        "ru":  "РђРєРєР°СѓРЅС‚С‹, BM Рё СЂРµРєР»Р°РјРЅС‹Рµ Р°РєС‚РёРІС‹."
+                                    }
+                       },
+                       {
+                           "id":  "google",
+                           "icon":  "G",
+                           "title":  {
+                                         "ua":  "Google",
+                                         "en":  "Google",
+                                         "ru":  "Google"
+                                     },
+                           "text":  {
+                                        "ua":  "Google Ads, Gmail С‚Р° workspace.",
+                                        "en":  "Google Ads, Gmail and workspace.",
+                                        "ru":  "Google Ads, Gmail Рё workspace."
+                                    }
+                       },
+                       {
+                           "id":  "tiktok",
+                           "icon":  "в™Є",
+                           "title":  {
+                                         "ua":  "TikTok",
+                                         "en":  "TikTok",
+                                         "ru":  "TikTok"
+                                     },
+                           "text":  {
+                                        "ua":  "РђРєР°СѓРЅС‚Рё TikTok С‚Р° СЂРµРєР»Р°РјРЅС– СЂРѕР·С…С–РґРЅРёРєРё.",
+                                        "en":  "TikTok accounts and ad supplies.",
+                                        "ru":  "РђРєРєР°СѓРЅС‚С‹ TikTok Рё СЂРµРєР»Р°РјРЅС‹Рµ СЂР°СЃС…РѕРґРЅРёРєРё."
+                                    }
+                       },
+                       {
+                           "id":  "telegram",
+                           "icon":  "вњ€",
+                           "title":  {
+                                         "ua":  "Telegram",
+                                         "en":  "Telegram",
+                                         "ru":  "Telegram"
+                                     },
+                           "text":  {
+                                        "ua":  "Telegram Р°РєР°СѓРЅС‚Рё, РєР°РЅР°Р»Рё С‚Р° СЃРµСЂРІС–СЃРё.",
+                                        "en":  "Telegram accounts, channels and services.",
+                                        "ru":  "Telegram Р°РєРєР°СѓРЅС‚С‹, РєР°РЅР°Р»С‹ Рё СЃРµСЂРІРёСЃС‹."
+                                    }
+                       },
+                       {
+                           "id":  "x-twitter",
+                           "icon":  "рќ•Џ",
+                           "title":  {
+                                         "ua":  "X / Twitter",
+                                         "en":  "X / Twitter",
+                                         "ru":  "X / Twitter"
+                                     },
+                           "text":  {
+                                        "ua":  "X Р°РєР°СѓРЅС‚Рё С‚Р° traffic tools.",
+                                        "en":  "X accounts and traffic tools.",
+                                        "ru":  "X Р°РєРєР°СѓРЅС‚С‹ Рё traffic tools."
+                                    }
+                       },
+                       {
+                           "id":  "proxy",
+                           "icon":  "в—Ћ",
+                           "title":  {
+                                         "ua":  "РџСЂРѕРєСЃС–",
+                                         "en":  "Proxies",
+                                         "ru":  "РџСЂРѕРєСЃРё"
+                                     },
+                           "text":  {
+                                        "ua":  "Р РѕР±РѕС‡Р° С–РЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂР° РїС–Рґ Р·Р°РїСѓСЃРє.",
+                                        "en":  "Infrastructure for launches.",
+                                        "ru":  "Р Р°Р±РѕС‡Р°СЏ РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂР° РїРѕРґ Р·Р°РїСѓСЃРє."
+                                    }
+                       },
+                       {
+                           "id":  "tools",
+                           "icon":  "вљ’",
+                           "title":  {
+                                         "ua":  "Р†РЅСЃС‚СЂСѓРјРµРЅС‚Рё",
+                                         "en":  "Tools",
+                                         "ru":  "РРЅСЃС‚СЂСѓРјРµРЅС‚С‹"
+                                     },
+                           "text":  {
+                                        "ua":  "РЎРµСЂРІС–СЃРё С‚Р° digital-СѓС‚РёР»С–С‚Рё.",
+                                        "en":  "Services and digital utilities.",
+                                        "ru":  "РЎРµСЂРІРёСЃС‹ Рё digital-СѓС‚РёР»РёС‚С‹."
+                                    }
+                       },
+                       {
+                           "id":  "other",
+                           "icon":  "в†",
+                           "title":  {
+                                         "ua":  "Р†РЅС€Рµ",
+                                         "en":  "Other",
+                                         "ru":  "Р”СЂСѓРіРѕРµ"
+                                     },
+                           "text":  {
+                                        "ua":  "РџРѕР·РёС†С–С— РїС–Рґ РЅРµСЃС‚Р°РЅРґР°СЂС‚РЅС– Р·Р°РґР°С‡С–.",
+                                        "en":  "Items for custom tasks.",
+                                        "ru":  "РџРѕР·РёС†РёРё РїРѕРґ РЅРµСЃС‚Р°РЅРґР°СЂС‚РЅС‹Рµ Р·Р°РґР°С‡Рё."
+                                    }
+                       }
+                   ],
+    "pages":  [
+                  {
+                      "number":  "01",
+                      "title":  {
+                                    "ua":  "РЎРѕС†РјРµСЂРµР¶С–",
+                                    "en":  "Social media",
+                                    "ru":  "РЎРѕС†СЃРµС‚Рё"
+                                },
+                      "text":  {
+                                   "ua":  "Instagram, TikTok, Telegram С‚Р° С–РЅС€С– РїР»РѕС‰Р°РґРєРё.",
+                                   "en":  "Instagram, TikTok, Telegram and other platforms.",
+                                   "ru":  "Instagram, TikTok, Telegram Рё РґСЂСѓРіРёРµ РїР»РѕС‰Р°РґРєРё."
+                               },
+                      "href":  "shop.html"
+                  },
+                  {
+                      "number":  "02",
+                      "title":  {
+                                    "ua":  "Р РµРєР»Р°РјР°",
+                                    "en":  "Ads",
+                                    "ru":  "Р РµРєР»Р°РјР°"
+                                },
+                      "text":  {
+                                   "ua":  "РџСЂРѕС„С–Р»С–, Р±С–Р·РЅРµСЃ-РјРµРЅРµРґР¶РµСЂРё С– Р·Р°РїСѓСЃРєРѕРІС– СЃРµС‚Р°РїРё.",
+                                   "en":  "Profiles, business managers and launch setups.",
+                                   "ru":  "РџСЂРѕС„РёР»Рё, Р±РёР·РЅРµСЃ-РјРµРЅРµРґР¶РµСЂС‹ Рё Р·Р°РїСѓСЃРєРѕРІС‹Рµ СЃРµС‚Р°РїС‹."
+                               },
+                      "href":  "shop.html"
+                  },
+                  {
+                      "number":  "03",
+                      "title":  {
+                                    "ua":  "РџРѕС€С‚Р° С– СЃРµСЂРІС–СЃРё",
+                                    "en":  "Mail and services",
+                                    "ru":  "РџРѕС‡С‚Р° Рё СЃРµСЂРІРёСЃС‹"
+                                },
+                      "text":  {
+                                   "ua":  "РџРѕС€С‚РѕРІС– Р°РєР°СѓРЅС‚Рё С– С–РЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂР° РїС–Рґ РєРѕРјР°РЅРґРё.",
+                                   "en":  "Mail accounts and team infrastructure.",
+                                   "ru":  "РџРѕС‡С‚РѕРІС‹Рµ Р°РєРєР°СѓРЅС‚С‹ Рё РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂР° РїРѕРґ РєРѕРјР°РЅРґС‹."
+                               },
+                      "href":  "shop.html"
+                  },
+                  {
+                      "number":  "04",
+                      "title":  {
+                                    "ua":  "Р†РЅРґРёРІС–РґСѓР°Р»СЊРЅРёР№ Р·Р°РєР°Р·",
+                                    "en":  "Custom order",
+                                    "ru":  "РРЅРґРёРІРёРґСѓР°Р»СЊРЅС‹Р№ Р·Р°РєР°Р·"
+                                },
+                      "text":  {
+                                   "ua":  "Р¤РѕСЂРјР° РґР»СЏ Р·Р°РїРёС‚Сѓ РїРѕР·РёС†С–С—, СЏРєРѕС— РЅРµРјР°С” Сѓ РІС–С‚СЂРёРЅС–.",
+                                   "en":  "Request a position that is not in the catalog.",
+                                   "ru":  "Р¤РѕСЂРјР° РґР»СЏ Р·Р°РїСЂРѕСЃР° РїРѕР·РёС†РёРё, РєРѕС‚РѕСЂРѕР№ РЅРµС‚ РІ РІРёС‚СЂРёРЅРµ."
+                               },
+                      "href":  "#contact"
+                  }
+              ],
+    "faq":  [
+                {
+                    "question":  {
+                                     "ua":  "РљРѕС€РёРє РІР¶Рµ РїСЂР°С†СЋС”?",
+                                     "en":  "Does the cart work?",
+                                     "ru":  "РљРѕСЂР·РёРЅР° СѓР¶Рµ СЂР°Р±РѕС‚Р°РµС‚?"
+                                 },
+                    "answer":  {
+                                   "ua":  "РўР°Рє. РњРѕР¶РЅР° РґРѕРґР°РІР°С‚Рё С‚РѕРІР°СЂРё, Р·РјС–РЅСЋРІР°С‚Рё РєС–Р»СЊРєС–СЃС‚СЊ С– Р±Р°С‡РёС‚Рё СЃСѓРјСѓ.",
+                                   "en":  "Yes. You can add items, change quantity and see the total.",
+                                   "ru":  "Р”Р°. РњРѕР¶РЅРѕ РґРѕР±Р°РІР»СЏС‚СЊ С‚РѕРІР°СЂС‹, РјРµРЅСЏС‚СЊ РєРѕР»РёС‡РµСЃС‚РІРѕ Рё РІРёРґРµС‚СЊ СЃСѓРјРјСѓ."
+                               }
+                },
+                {
+                    "question":  {
+                                     "ua":  "РњРѕР¶РЅР° СЂРµРґР°РіСѓРІР°С‚Рё С†С–РЅРё?",
+                                     "en":  "Can I edit prices?",
+                                     "ru":  "РњРѕР¶РЅРѕ СЂРµРґР°РєС‚РёСЂРѕРІР°С‚СЊ С†РµРЅС‹?"
+                                 },
+                    "answer":  {
+                                   "ua":  "РўР°Рє, С†С–РЅРё, С‚РѕРІР°СЂРё С– С‚РµРєСЃС‚Рё СЂРµРґР°РіСѓСЋС‚СЊСЃСЏ РІ Р°РґРјС–РЅС†С–.",
+                                   "en":  "Yes, prices, products and texts are edited in the admin panel.",
+                                   "ru":  "Р”Р°, С†РµРЅС‹, С‚РѕРІР°СЂС‹ Рё С‚РµРєСЃС‚С‹ СЂРµРґР°РєС‚РёСЂСѓСЋС‚СЃСЏ РІ Р°РґРјРёРЅРєРµ."
+                               }
+                },
+                {
+                    "question":  {
+                                     "ua":  "Р„ С‚СЂРё РјРѕРІРё?",
+                                     "en":  "Are there three languages?",
+                                     "ru":  "Р•СЃС‚СЊ С‚СЂРё СЏР·С‹РєР°?"
+                                 },
+                    "answer":  {
+                                   "ua":  "РўР°Рє: UA, ENG С– RU Р· РїРµСЂРµРјРёРєР°С‡РµРј Сѓ С€Р°РїС†С–.",
+                                   "en":  "Yes: UA, ENG and RU with a header switcher.",
+                                   "ru":  "Р”Р°: UA, ENG Рё RU СЃ РїРµСЂРµРєР»СЋС‡Р°С‚РµР»РµРј РІ С€Р°РїРєРµ."
+                               }
+                }
+            ],
+    "guides":  [
+                   {
+                       "id":  "guide-media-buying",
+                       "title":  {
+                                     "ua":  "РЎС‚Р°СЂС‚ Сѓ media buying",
+                                     "en":  "Media buying start",
+                                     "ru":  "РЎС‚Р°СЂС‚ РІ media buying"
+                                 },
+                       "excerpt":  {
+                                       "ua":  "Р‘Р°Р·РѕРІС– РїСЂР°РІРёР»Р° РїС–РґРіРѕС‚РѕРІРєРё Р°РєР°СѓРЅС‚С–РІ, Р±СЋРґР¶РµС‚С–РІ С– РїРµСЂС€РёС… С‚РµСЃС‚С–РІ.",
+                                       "en":  "Basic rules for accounts, budgets and first tests.",
+                                       "ru":  "Р‘Р°Р·РѕРІС‹Рµ РїСЂР°РІРёР»Р° РїРѕРґРіРѕС‚РѕРІРєРё Р°РєРєР°СѓРЅС‚РѕРІ, Р±СЋРґР¶РµС‚РѕРІ Рё РїРµСЂРІС‹С… С‚РµСЃС‚РѕРІ."
+                                   },
+                       "body":  {
+                                    "ua":  "РџРѕС‡РёРЅР°Р№С‚Рµ Р· РјР°Р»РµРЅСЊРєРёС… С‚РµСЃС‚С–РІ, С„С–РєСЃСѓР№С‚Рµ РґР¶РµСЂРµР»Рѕ С‚СЂР°С„С–РєСѓ, РєСЂРµР°С‚РёРІРё С– СЂРµР·СѓР»СЊС‚Р°С‚.",
+                                    "en":  "Start with small tests, track traffic source, creatives and result.",
+                                    "ru":  "РќР°С‡РёРЅР°Р№С‚Рµ СЃ РјР°Р»РµРЅСЊРєРёС… С‚РµСЃС‚РѕРІ, С„РёРєСЃРёСЂСѓР№С‚Рµ РёСЃС‚РѕС‡РЅРёРє С‚СЂР°С„РёРєР°, РєСЂРµР°С‚РёРІС‹ Рё СЂРµР·СѓР»СЊС‚Р°С‚."
+                                },
+                       "category":  "arbitraj",
+                       "size":  "large",
+                       "image":  ""
+                   },
+                   {
+                       "id":  "guide-safety",
+                       "title":  {
+                                     "ua":  "Р‘РµР·РїРµРєР° Р°РєР°СѓРЅС‚С–РІ",
+                                     "en":  "Account safety",
+                                     "ru":  "Р‘РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ Р°РєРєР°СѓРЅС‚РѕРІ"
+                                 },
+                       "excerpt":  {
+                                       "ua":  "Р©Рѕ РїРµСЂРµРІС–СЂРёС‚Рё РїРµСЂРµРґ Р·Р°РїСѓСЃРєРѕРј С– РїРµСЂРµРґР°С‡РµСЋ РґРѕСЃС‚СѓРїС–РІ.",
+                                       "en":  "What to check before launch and access transfer.",
+                                       "ru":  "Р§С‚Рѕ РїСЂРѕРІРµСЂРёС‚СЊ РїРµСЂРµРґ Р·Р°РїСѓСЃРєРѕРј Рё РїРµСЂРµРґР°С‡РµР№ РґРѕСЃС‚СѓРїРѕРІ."
+                                   },
+                       "body":  {
+                                    "ua":  "РџРµСЂРµРІС–СЂСЏР№С‚Рµ РїСЂРёРІ\u0027СЏР·РєРё, СЂРµР·РµСЂРІРЅС– РєРѕРЅС‚Р°РєС‚Рё С– РїРѕСЂСЏРґРѕРє РїРµСЂРµРґР°С‡С– РґР°РЅРёС….",
+                                    "en":  "Check bindings, recovery contacts and transfer process.",
+                                    "ru":  "РџСЂРѕРІРµСЂСЏР№С‚Рµ РїСЂРёРІСЏР·РєРё, СЂРµР·РµСЂРІРЅС‹Рµ РєРѕРЅС‚Р°РєС‚С‹ Рё РїРѕСЂСЏРґРѕРє РїРµСЂРµРґР°С‡Рё РґР°РЅРЅС‹С…."
+                                },
+                       "category":  "marketing",
+                       "size":  "medium",
+                       "image":  ""
+                   },
+                   {
+                       "id":  "news-crypto-payments",
+                       "title":  {
+                                     "ua":  "РљСЂРёРїС‚РѕРѕРїР»Р°С‚Рё РґР»СЏ РєРѕРјР°РЅРґ",
+                                     "en":  "Crypto payments for teams",
+                                     "ru":  "РљСЂРёРїС‚РѕРѕРїР»Р°С‚С‹ РґР»СЏ РєРѕРјР°РЅРґ"
+                                 },
+                       "excerpt":  {
+                                       "ua":  "USDT, BTC С‚Р° С€РІРёРґРєС– РїРµСЂРµРєР°Р·Рё РґР»СЏ Р·Р°РєСѓРїС–РІР»С– digital-СЂРѕР·С…С–РґРЅРёРєС–РІ.",
+                                       "en":  "USDT, BTC and fast transfers for buying digital supplies.",
+                                       "ru":  "USDT, BTC Рё Р±С‹СЃС‚СЂС‹Рµ РїРµСЂРµРІРѕРґС‹ РґР»СЏ Р·Р°РєСѓРїРєРё digital-СЂР°СЃС…РѕРґРЅРёРєРѕРІ."
+                                   },
+                       "body":  {
+                                    "ua":  "Р”Р»СЏ СЃС‚Р°Р±С–Р»СЊРЅРѕС— СЂРѕР±РѕС‚Рё С‚СЂРёРјР°Р№С‚Рµ РѕРєСЂРµРјС– РіР°РјР°РЅС†С– РїС–Рґ Р·Р°РєСѓРїС–РІР»С–, С„С–РєСЃСѓР№С‚Рµ РјРµСЂРµР¶Сѓ РїРµСЂРµРєР°Р·Сѓ С– Р·Р±РµСЂС–РіР°Р№С‚Рµ С–СЃС‚РѕСЂС–СЋ РїР»Р°С‚РµР¶С–РІ.",
+                                    "en":  "For stable work, keep separate wallets for purchases, track the transfer network and save payment history.",
+                                    "ru":  "Р”Р»СЏ СЃС‚Р°Р±РёР»СЊРЅРѕР№ СЂР°Р±РѕС‚С‹ РґРµСЂР¶РёС‚Рµ РѕС‚РґРµР»СЊРЅС‹Рµ РєРѕС€РµР»СЊРєРё РїРѕРґ Р·Р°РєСѓРїРєРё, С„РёРєСЃРёСЂСѓР№С‚Рµ СЃРµС‚СЊ РїРµСЂРµРІРѕРґР° Рё СЃРѕС…СЂР°РЅСЏР№С‚Рµ РёСЃС‚РѕСЂРёСЋ РїР»Р°С‚РµР¶РµР№."
+                                },
+                       "category":  "kripto",
+                       "size":  "medium",
+                       "image":  ""
+                   }
+               ],
+    "events":  [
+                   {
+                       "id":  "event-affiliate-conf",
+                       "title":  {
+                                     "ua":  "Affiliate conf: РІРµСЃРЅСЏРЅРёР№ Р°РЅРѕРЅСЃ",
+                                     "en":  "Affiliate conf: spring announcement",
+                                     "ru":  "Affiliate conf: РІРµСЃРµРЅРЅРёР№ Р°РЅРѕРЅСЃ"
+                                 },
+                       "date":  "2026-07-20",
+                       "location":  {
+                                        "ua":  "РљРёС—РІ / online",
+                                        "en":  "Kyiv / online",
+                                        "ru":  "РљРёРµРІ / online"
+                                    },
+                       "text":  {
+                                    "ua":  "РљРѕРЅС„РµСЂРµРЅС†С–СЏ РїСЂРѕ Р°СЂР±С–С‚СЂР°Р¶, РјРµРґС–Р°Р±Р°С—РЅРі С– СЂРµРєР»Р°РјРЅСѓ С–РЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂСѓ.",
+                                    "en":  "Conference about affiliate marketing, media buying and ad infrastructure.",
+                                    "ru":  "РљРѕРЅС„РµСЂРµРЅС†РёСЏ РїСЂРѕ Р°СЂР±РёС‚СЂР°Р¶, РјРµРґРёР°Р±Р°РёРЅРі Рё СЂРµРєР»Р°РјРЅСѓСЋ РёРЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂСѓ."
+                                },
+                       "image":  ""
+                   }
+               ],
+    "partnersList":  [
+                         {
+                             "id":  "partner-alpha",
+                             "name":  "Alpha Media",
+                             "site":  "https://example.com",
+                             "promo":  "DAMAGE",
+                             "text":  {
+                                          "ua":  "РџР°СЂС‚РЅРµСЂ РїРѕ РјРµРґС–Р°Р±Р°С—РЅРіСѓ С‚Р° СЂРµРєР»Р°РјРЅРёРј Р·Р°РїСѓСЃРєР°Рј.",
+                                          "en":  "Media buying and ad launch partner.",
+                                          "ru":  "РџР°СЂС‚РЅРµСЂ РїРѕ РјРµРґРёР°Р±Р°РёРЅРіСѓ Рё СЂРµРєР»Р°РјРЅС‹Рј Р·Р°РїСѓСЃРєР°Рј."
+                                      },
+                             "logo":  "",
+                             "siteLabel":  "SITE"
+                         }
+                     ],
+    "ui":  {
+               "ua":  {
+                          "home":  "Р“РѕР»РѕРІРЅР°",
+                          "shop":  "РњР°РіР°Р·РёРЅ",
+                          "guides":  "РќРѕРІРёРЅРё",
+                          "events":  "РџРѕРґС–С—",
+                          "partners":  "РџР°СЂС‚РЅРµСЂРё",
+                          "admin":  "РђРґРјС–РЅРєР°",
+                          "cart":  "РљРѕС€РёРє",
+                          "openCatalog":  "Р’С–РґРєСЂРёС‚Рё РєР°С‚Р°Р»РѕРі",
+                          "watchDrops":  "Р”РёРІРёС‚РёСЃСЊ РґСЂРѕРїРё",
+                          "drops":  "Р“Р°СЂСЏС‡С– РґСЂРѕРїРё",
+                          "dropsTitle":  "РЁРІРёРґРєС– РїРѕР·РёС†С–С— РґР»СЏ СЃС‚Р°СЂС‚Сѓ",
+                          "catalog":  "РљР°С‚Р°Р»РѕРі",
+                          "catalogTitle":  "Р РѕР·РґС–Р»Рё РјР°РіР°Р·РёРЅСѓ",
+                          "all":  "Р’СЃС–",
+                          "social":  "РЎРѕС†РјРµСЂРµР¶С–",
+                          "ads":  "Р РµРєР»Р°РјР°",
+                          "mail":  "РџРѕС€С‚Р°",
+                          "bundle":  "РќР°Р±РѕСЂРё",
+                          "addCart":  "Р”Рѕ РєРѕС€РёРєР°",
+                          "pagesEyebrow":  "РЎС‚РѕСЂС–РЅРєРё РєР°С‚Р°Р»РѕРіСѓ",
+                          "pagesTitle":  "РћРєСЂРµРјС– РІС…РѕРґРё РІ СЂРѕР·РґС–Р»Рё",
+                          "advantages":  "РќР°С€С– РїРµСЂРµРІР°РіРё",
+                          "telegramTitle":  "РџС–РґРїРёС€РёСЃСЊ РІ Telegram",
+                          "telegramText":  "Р‘СѓРґСЊ РІ РєСѓСЂСЃС– РІСЃС–С… РїРѕРґС–Р№ DOUBLE DAMAGE",
+                          "subscribe":  "РџС–РґРїРёСЃР°С‚РёСЃСЏ РЅР° РєР°РЅР°Р»",
+                          "howEyebrow":  "РџСЂРѕС†РµСЃ СЂРѕР±РѕС‚Рё",
+                          "howTitle":  "РЇРє РјРё РїСЂР°С†СЋС”РјРѕ?",
+                          "howText":  "РџСЂРѕСЃС‚РёР№ РїСЂРѕС†РµСЃ РІС–Рґ РІРёР±РѕСЂСѓ РґРѕ РѕС‚СЂРёРјР°РЅРЅСЏ",
+                          "reviews":  "Р’С–РґРіСѓРєРё",
+                          "faq":  "Р§Р°СЃС‚С– РїРёС‚Р°РЅРЅСЏ",
+                          "request":  "Р’С–РґРїСЂР°РІРёС‚Рё Р·Р°РїРёС‚",
+                          "cartOrder":  "Р’Р°С€Рµ Р·Р°РјРѕРІР»РµРЅРЅСЏ",
+                          "emptyCart":  "РџРѕРєРё РїСѓСЃС‚Рѕ. Р”РѕРґР°Р№С‚Рµ РїРѕР·РёС†С–СЋ Р· РєР°С‚Р°Р»РѕРіСѓ.",
+                          "total":  "Р Р°Р·РѕРј",
+                          "checkout":  "РћС„РѕСЂРјРёС‚Рё Р·Р°РїРёС‚"
+                      },
+               "en":  {
+                          "home":  "Home",
+                          "shop":  "Shop",
+                          "guides":  "News",
+                          "events":  "Events",
+                          "partners":  "Partners",
+                          "admin":  "Admin",
+                          "cart":  "Cart",
+                          "openCatalog":  "Open catalog",
+                          "watchDrops":  "View drops",
+                          "drops":  "Hot drops",
+                          "dropsTitle":  "Fast picks for launch",
+                          "catalog":  "Catalog",
+                          "catalogTitle":  "Store sections",
+                          "all":  "All",
+                          "social":  "Social",
+                          "ads":  "Ads",
+                          "mail":  "Mail",
+                          "bundle":  "Bundles",
+                          "addCart":  "Add to cart",
+                          "pagesEyebrow":  "Catalog pages",
+                          "pagesTitle":  "Separate entry points",
+                          "advantages":  "Our advantages",
+                          "telegramTitle":  "Follow us on Telegram",
+                          "telegramText":  "Stay tuned for every DOUBLE DAMAGE update",
+                          "subscribe":  "Subscribe to channel",
+                          "howEyebrow":  "Work process",
+                          "howTitle":  "How we work",
+                          "howText":  "A simple flow from choosing to receiving access",
+                          "reviews":  "Reviews",
+                          "faq":  "FAQ",
+                          "request":  "Send request",
+                          "cartOrder":  "Your order",
+                          "emptyCart":  "Cart is empty. Add an item from the catalog.",
+                          "total":  "Total",
+                          "checkout":  "Send request"
+                      },
+               "ru":  {
+                          "home":  "Р“Р»Р°РІРЅР°СЏ",
+                          "shop":  "РњР°РіР°Р·РёРЅ",
+                          "guides":  "РќРѕРІРѕСЃС‚Рё",
+                          "events":  "РЎРѕР±С‹С‚РёСЏ",
+                          "partners":  "РџР°СЂС‚РЅРµСЂС‹",
+                          "admin":  "РђРґРјРёРЅРєР°",
+                          "cart":  "РљРѕСЂР·РёРЅР°",
+                          "openCatalog":  "РћС‚РєСЂС‹С‚СЊ РєР°С‚Р°Р»РѕРі",
+                          "watchDrops":  "РЎРјРѕС‚СЂРµС‚СЊ РґСЂРѕРїС‹",
+                          "drops":  "Р“РѕСЂСЏС‡РёРµ РґСЂРѕРїС‹",
+                          "dropsTitle":  "Р‘С‹СЃС‚СЂС‹Рµ РїРѕР·РёС†РёРё РґР»СЏ СЃС‚Р°СЂС‚Р°",
+                          "catalog":  "РљР°С‚Р°Р»РѕРі",
+                          "catalogTitle":  "Р Р°Р·РґРµР»С‹ РјР°РіР°Р·РёРЅР°",
+                          "all":  "Р’СЃРµ",
+                          "social":  "РЎРѕС†СЃРµС‚Рё",
+                          "ads":  "Р РµРєР»Р°РјР°",
+                          "mail":  "РџРѕС‡С‚Р°",
+                          "bundle":  "РќР°Р±РѕСЂС‹",
+                          "addCart":  "Р’ РєРѕСЂР·РёРЅСѓ",
+                          "pagesEyebrow":  "РЎС‚СЂР°РЅРёС‡РєРё РєР°С‚Р°Р»РѕРіР°",
+                          "pagesTitle":  "РћС‚РґРµР»СЊРЅС‹Рµ РІС…РѕРґС‹ РІ СЂР°Р·РґРµР»С‹",
+                          "advantages":  "РќР°С€Рё РїСЂРµРёРјСѓС‰РµСЃС‚РІР°",
+                          "telegramTitle":  "РџРѕРґРїРёС€РёСЃСЊ РІ Telegram",
+                          "telegramText":  "Р‘СѓРґСЊ РІ РєСѓСЂСЃРµ РІСЃРµС… СЃРѕР±С‹С‚РёР№ DOUBLE DAMAGE",
+                          "subscribe":  "РџРѕРґРїРёСЃР°С‚СЊСЃСЏ РЅР° РєР°РЅР°Р»",
+                          "howEyebrow":  "РџСЂРѕС†РµСЃСЃ СЂР°Р±РѕС‚С‹",
+                          "howTitle":  "РљР°Рє РјС‹ СЂР°Р±РѕС‚Р°РµРј?",
+                          "howText":  "РџСЂРѕСЃС‚РѕР№ РїСЂРѕС†РµСЃСЃ РѕС‚ РІС‹Р±РѕСЂР° РґРѕ РїРѕР»СѓС‡РµРЅРёСЏ",
+                          "reviews":  "РћС‚Р·С‹РІС‹",
+                          "faq":  "Р§Р°СЃС‚С‹Рµ РІРѕРїСЂРѕСЃС‹",
+                          "request":  "РћС‚РїСЂР°РІРёС‚СЊ Р·Р°РїСЂРѕСЃ",
+                          "cartOrder":  "Р’Р°С€ Р·Р°РєР°Р·",
+                          "emptyCart":  "РџРѕРєР° РїСѓСЃС‚Рѕ. Р”РѕР±Р°РІСЊС‚Рµ РїРѕР·РёС†РёСЋ РёР· РєР°С‚Р°Р»РѕРіР°.",
+                          "total":  "РС‚РѕРіРѕ",
+                          "checkout":  "РћС„РѕСЂРјРёС‚СЊ Р·Р°РїСЂРѕСЃ"
+                      }
+           },
+    "news":  [
+                 {
+                     "id":  "guide-media-buying",
+                     "title":  {
+                                   "ua":  "РЎС‚Р°СЂС‚ Сѓ media buying",
+                                   "en":  "Media buying start",
+                                   "ru":  "РЎС‚Р°СЂС‚ РІ media buying"
+                               },
+                     "excerpt":  {
+                                     "ua":  "Р‘Р°Р·РѕРІС– РїСЂР°РІРёР»Р° РїС–РґРіРѕС‚РѕРІРєРё Р°РєР°СѓРЅС‚С–РІ, Р±СЋРґР¶РµС‚С–РІ С– РїРµСЂС€РёС… С‚РµСЃС‚С–РІ.",
+                                     "en":  "Basic rules for accounts, budgets and first tests.",
+                                     "ru":  "Р‘Р°Р·РѕРІС‹Рµ РїСЂР°РІРёР»Р° РїРѕРґРіРѕС‚РѕРІРєРё Р°РєРєР°СѓРЅС‚РѕРІ, Р±СЋРґР¶РµС‚РѕРІ Рё РїРµСЂРІС‹С… С‚РµСЃС‚РѕРІ."
+                                 },
+                     "body":  {
+                                  "ua":  "РџРѕС‡РёРЅР°Р№С‚Рµ Р· РјР°Р»РµРЅСЊРєРёС… С‚РµСЃС‚С–РІ, С„С–РєСЃСѓР№С‚Рµ РґР¶РµСЂРµР»Рѕ С‚СЂР°С„С–РєСѓ, РєСЂРµР°С‚РёРІРё С– СЂРµР·СѓР»СЊС‚Р°С‚.",
+                                  "en":  "Start with small tests, track traffic source, creatives and result.",
+                                  "ru":  "РќР°С‡РёРЅР°Р№С‚Рµ СЃ РјР°Р»РµРЅСЊРєРёС… С‚РµСЃС‚РѕРІ, С„РёРєСЃРёСЂСѓР№С‚Рµ РёСЃС‚РѕС‡РЅРёРє С‚СЂР°С„РёРєР°, РєСЂРµР°С‚РёРІС‹ Рё СЂРµР·СѓР»СЊС‚Р°С‚."
+                              },
+                     "category":  "arbitraj",
+                     "size":  "large",
+                     "image":  ""
+                 },
+                 {
+                     "id":  "guide-safety",
+                     "title":  {
+                                   "ua":  "Р‘РµР·РїРµРєР° Р°РєР°СѓРЅС‚С–РІ",
+                                   "en":  "Account safety",
+                                   "ru":  "Р‘РµР·РѕРїР°СЃРЅРѕСЃС‚СЊ Р°РєРєР°СѓРЅС‚РѕРІ"
+                               },
+                     "excerpt":  {
+                                     "ua":  "Р©Рѕ РїРµСЂРµРІС–СЂРёС‚Рё РїРµСЂРµРґ Р·Р°РїСѓСЃРєРѕРј С– РїРµСЂРµРґР°С‡РµСЋ РґРѕСЃС‚СѓРїС–РІ.",
+                                     "en":  "What to check before launch and access transfer.",
+                                     "ru":  "Р§С‚Рѕ РїСЂРѕРІРµСЂРёС‚СЊ РїРµСЂРµРґ Р·Р°РїСѓСЃРєРѕРј Рё РїРµСЂРµРґР°С‡РµР№ РґРѕСЃС‚СѓРїРѕРІ."
+                                 },
+                     "body":  {
+                                  "ua":  "РџРµСЂРµРІС–СЂСЏР№С‚Рµ РїСЂРёРІ\u0027СЏР·РєРё, СЂРµР·РµСЂРІРЅС– РєРѕРЅС‚Р°РєС‚Рё С– РїРѕСЂСЏРґРѕРє РїРµСЂРµРґР°С‡С– РґР°РЅРёС….",
+                                  "en":  "Check bindings, recovery contacts and transfer process.",
+                                  "ru":  "РџСЂРѕРІРµСЂСЏР№С‚Рµ РїСЂРёРІСЏР·РєРё, СЂРµР·РµСЂРІРЅС‹Рµ РєРѕРЅС‚Р°РєС‚С‹ Рё РїРѕСЂСЏРґРѕРє РїРµСЂРµРґР°С‡Рё РґР°РЅРЅС‹С…."
+                              },
+                     "category":  "marketing",
+                     "size":  "medium",
+                     "image":  ""
+                 },
+                 {
+                     "id":  "news-crypto-payments",
+                     "title":  {
+                                   "ua":  "РљСЂРёРїС‚РѕРѕРїР»Р°С‚Рё РґР»СЏ РєРѕРјР°РЅРґ",
+                                   "en":  "Crypto payments for teams",
+                                   "ru":  "РљСЂРёРїС‚РѕРѕРїР»Р°С‚С‹ РґР»СЏ РєРѕРјР°РЅРґ"
+                               },
+                     "excerpt":  {
+                                     "ua":  "USDT, BTC С‚Р° С€РІРёРґРєС– РїРµСЂРµРєР°Р·Рё РґР»СЏ Р·Р°РєСѓРїС–РІР»С– digital-СЂРѕР·С…С–РґРЅРёРєС–РІ.",
+                                     "en":  "USDT, BTC and fast transfers for buying digital supplies.",
+                                     "ru":  "USDT, BTC Рё Р±С‹СЃС‚СЂС‹Рµ РїРµСЂРµРІРѕРґС‹ РґР»СЏ Р·Р°РєСѓРїРєРё digital-СЂР°СЃС…РѕРґРЅРёРєРѕРІ."
+                                 },
+                     "body":  {
+                                  "ua":  "Р”Р»СЏ СЃС‚Р°Р±С–Р»СЊРЅРѕС— СЂРѕР±РѕС‚Рё С‚СЂРёРјР°Р№С‚Рµ РѕРєСЂРµРјС– РіР°РјР°РЅС†С– РїС–Рґ Р·Р°РєСѓРїС–РІР»С–, С„С–РєСЃСѓР№С‚Рµ РјРµСЂРµР¶Сѓ РїРµСЂРµРєР°Р·Сѓ С– Р·Р±РµСЂС–РіР°Р№С‚Рµ С–СЃС‚РѕСЂС–СЋ РїР»Р°С‚РµР¶С–РІ.",
+                                  "en":  "For stable work, keep separate wallets for purchases, track the transfer network and save payment history.",
+                                  "ru":  "Р”Р»СЏ СЃС‚Р°Р±РёР»СЊРЅРѕР№ СЂР°Р±РѕС‚С‹ РґРµСЂР¶РёС‚Рµ РѕС‚РґРµР»СЊРЅС‹Рµ РєРѕС€РµР»СЊРєРё РїРѕРґ Р·Р°РєСѓРїРєРё, С„РёРєСЃРёСЂСѓР№С‚Рµ СЃРµС‚СЊ РїРµСЂРµРІРѕРґР° Рё СЃРѕС…СЂР°РЅСЏР№С‚Рµ РёСЃС‚РѕСЂРёСЋ РїР»Р°С‚РµР¶РµР№."
+                              },
+                     "category":  "kripto",
+                     "size":  "medium",
+                     "image":  ""
+                 }
+             ],
+    "orders":  [
+
+               ],
+    "partnerLeads":  [
+
+                     ]
+}
