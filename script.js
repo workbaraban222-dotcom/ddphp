@@ -1,4 +1,4 @@
-﻿let data = ddLoadStore();
+let data = ddLoadStore();
 let currentLang = ddLang();
 const DD_THEME_KEY = "doubleDamageThemeV2";
 const cartPanel = document.querySelector(".cart-panel");
@@ -16,12 +16,7 @@ const shopState = {
 };
 
 function ddPage(name) {
-  const path = location.pathname.toLowerCase();
-  if (!path.endsWith(".php") && !path.endsWith(".html")) {
-    return name === "index" ? "/" : `/${name}`;
-  }
-  const ext = path.endsWith(".php") ? "php" : "html";
-  return `${name}.${ext}`;
+  return `${name}.php`;
 }
 
 function ddIsPage(name) {
@@ -1197,6 +1192,11 @@ async function initSite() {
   } catch (error) {
     console.error("DOUBLE DAMAGE init failed", error);
   } finally {
+    if (document.fonts?.ready) {
+      try {
+        await document.fonts.ready;
+      } catch (error) {}
+    }
     document.documentElement.classList.add("dd-ready");
   }
 }

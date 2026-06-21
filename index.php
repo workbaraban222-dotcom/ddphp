@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="ru" class="dd-boot">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
         
-    <style>html.dd-boot:not(.dd-ready) body{visibility:hidden!important}html{overflow-y:scroll;scrollbar-gutter:stable;overflow-x:hidden}</style><script>
+    <style>html.dd-boot:not(.dd-ready) body{visibility:hidden!important}html{overflow-y:scroll;scrollbar-gutter:stable both-edges;overflow-x:hidden}</style><script>
       (function () {
         try {
           document.documentElement.classList.add('dd-boot');
@@ -17,7 +17,7 @@
       name="description"
       content="DOUBLE DAMAGE - магазин digital-расходников, аккаунтов, профилей и готовых сетапов."
     />
-  <link rel="stylesheet" href="styles.css?v=101" />
+  <link rel="stylesheet" href="styles.css?v=106" />
   <?php require_once __DIR__ . '/partials/bootstrap.php'; dd_bootstrap_script(); ?>
   </head>
   <body>
@@ -240,10 +240,11 @@
       </div>
     </footer>
 
-    <script src="store.js?v=11"></script>
-    <script src="script.js?v=48"></script>
+    <script src="store.js?v=13"></script>
+    <script src="script.js?v=50"></script>
   </body>
 </html>
+
 
 
 

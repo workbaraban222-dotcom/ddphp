@@ -1,4 +1,4 @@
-﻿let adminData = ddLoadStore();
+let adminData = ddLoadStore();
 const DD_ADMIN_AUTH_KEY = "doubleDamageAdminAuth";
 const DD_ADMIN_LOGIN = "jood";
 const DD_ADMIN_PASSWORD = "123qwe123";
@@ -631,19 +631,26 @@ function autoProduct(index) {
 
 async function saveAll() {
   collectContent();
-  ddSaveStore(adminData);
   setStatus("Сохраняю на сервер...");
   try {
-    const response = await fetch("/api/site", {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(adminData),
-    });
-    if (!response.ok) throw new Error("Save failed");
-    adminData = await response.json();
-    ddSaveStore(adminData);
-    setStatus("Сохранено на сервер. Изменения увидят все посетители.");
-  } catch {
+    let savedData = null;
+    for (const endpoint of DD_API_ENDPOINTS) {
+      try {
+        const separator = endpoint.includes("?") ? "&" : "?";
+        const response = await fetch(`${endpoint}${separator}ts=${Date.now()}`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", "Cache-Control": "no-cache" },
+          body: JSON.stringify(adminData),
+        });
+        if (!response.ok) continue;
+        savedData = await response.json();
+        break;
+      } catch (error) {}
+    }
+    if (!savedData) throw new Error("Save failed");
+    adminData = ddMergeStoreData(savedData);
+    setStatus("Сохранено в базу. Изменения сразу доступны всем посетителям.");
+  } catch (error) {
     setStatus("Не удалось сохранить на сервер. Проверь backend/права на data/db.json.");
   }
 }
@@ -704,9 +711,8 @@ document.addEventListener("click", (event) => {
   if (event.target.closest("[data-save]")) saveAll();
   if (event.target.closest("[data-reset]")) {
     adminData = ddClone(DD_DEFAULT_DATA);
-    ddSaveStore(adminData);
     renderAdmin();
-    setStatus("Р”Р°РЅРЅС‹Рµ СЃР±СЂРѕС€РµРЅС‹.");
+    setStatus("Данные сброшены в форме. Нажмите сохранить, чтобы обновить базу.");
   }
 
   const remove = event.target.closest("[data-remove]");
@@ -828,6 +834,11 @@ async function initAdmin() {
   adminData = await ddLoadServerStore();
   updateAuthView();
   renderAdmin();
+  if (document.fonts?.ready) {
+    try {
+      await document.fonts.ready;
+    } catch (error) {}
+  }
   document.documentElement.classList.add("dd-ready");
 }
 

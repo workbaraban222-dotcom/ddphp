@@ -1,6 +1,7 @@
 const DD_STORAGE_KEY = "doubleDamageStoreV3";
 const DD_LANG_KEY = "doubleDamageLang";
 const DD_LANGS = ["ua", "en", "ru"];
+const DD_API_ENDPOINTS = ["api/site/index.php", "api/site"];
 
 const DD_CP1251_CHARS = "\u0402\u0403\u201a\u0453\u201e\u2026\u2020\u2021\u20ac\u2030\u0409\u2039\u040a\u040c\u040b\u040f\u0452\u2018\u2019\u201c\u201d\u2022\u2013\u2014\ufffd\u2122\u0459\u203a\u045a\u045c\u045b\u045f\u00a0\u040e\u045e\u0408\u00a4\u0490\u00a6\u00a7\u0401\u00a9\u0404\u00ab\u00ac\u00ad\u00ae\u0407\u00b0\u00b1\u0406\u0456\u0491\u00b5\u00b6\u00b7\u0451\u2116\u0454\u00bb\u0458\u0405\u0455\u0457\u0410\u0411\u0412\u0413\u0414\u0415\u0416\u0417\u0418\u0419\u041a\u041b\u041c\u041d\u041e\u041f\u0420\u0421\u0422\u0423\u0424\u0425\u0426\u0427\u0428\u0429\u042a\u042b\u042c\u042d\u042e\u042f\u0430\u0431\u0432\u0433\u0434\u0435\u0436\u0437\u0438\u0439\u043a\u043b\u043c\u043d\u043e\u043f\u0440\u0441\u0442\u0443\u0444\u0445\u0446\u0447\u0448\u0449\u044a\u044b\u044c\u044d\u044e\u044f";
 
@@ -344,9 +345,9 @@ const DD_DEFAULT_DATA = {
     { id: "other", icon: "☆", title: { ua: "Інше", en: "Other", ru: "Другое" }, text: { ua: "Позиції під нестандартні задачі.", en: "Items for custom tasks.", ru: "Позиции под нестандартные задачи." } },
   ],
   pages: [
-    { number: "01", title: { ua: "Соцмережі", en: "Social media", ru: "Соцсети" }, text: { ua: "Instagram, TikTok, Telegram та інші площадки.", en: "Instagram, TikTok, Telegram and other platforms.", ru: "Instagram, TikTok, Telegram и другие площадки." }, href: "shop.html" },
-    { number: "02", title: { ua: "Реклама", en: "Ads", ru: "Реклама" }, text: { ua: "Профілі, бізнес-менеджери і запускові сетапи.", en: "Profiles, business managers and launch setups.", ru: "Профили, бизнес-менеджеры и запусковые сетапы." }, href: "shop.html" },
-    { number: "03", title: { ua: "Пошта і сервіси", en: "Mail and services", ru: "Почта и сервисы" }, text: { ua: "Поштові акаунти і інфраструктура під команди.", en: "Mail accounts and team infrastructure.", ru: "Почтовые аккаунты и инфраструктура под команды." }, href: "shop.html" },
+    { number: "01", title: { ua: "Соцмережі", en: "Social media", ru: "Соцсети" }, text: { ua: "Instagram, TikTok, Telegram та інші площадки.", en: "Instagram, TikTok, Telegram and other platforms.", ru: "Instagram, TikTok, Telegram и другие площадки." }, href: "shop.php" },
+    { number: "02", title: { ua: "Реклама", en: "Ads", ru: "Реклама" }, text: { ua: "Профілі, бізнес-менеджери і запускові сетапи.", en: "Profiles, business managers and launch setups.", ru: "Профили, бизнес-менеджеры и запусковые сетапы." }, href: "shop.php" },
+    { number: "03", title: { ua: "Пошта і сервіси", en: "Mail and services", ru: "Почта и сервисы" }, text: { ua: "Поштові акаунти і інфраструктура під команди.", en: "Mail accounts and team infrastructure.", ru: "Почтовые аккаунты и инфраструктура под команды." }, href: "shop.php" },
     { number: "04", title: { ua: "Індивідуальний заказ", en: "Custom order", ru: "Индивидуальный заказ" }, text: { ua: "Форма для запиту позиції, якої немає у вітрині.", en: "Request a position that is not in the catalog.", ru: "Форма для запроса позиции, которой нет в витрине." }, href: "#contact" },
   ],
   faq: [
@@ -493,18 +494,26 @@ function ddMergeStoreData(parsed = {}) {
 }
 
 async function ddLoadServerStore() {
+  let embeddedData = null;
+  if (typeof window !== "undefined" && window.__DD_SERVER_DATA__) {
+    embeddedData = ddMergeStoreData(window.__DD_SERVER_DATA__);
+  }
+
   try {
-    if (typeof window !== "undefined" && window.__DD_SERVER_DATA__) {
-      const merged = ddMergeStoreData(window.__DD_SERVER_DATA__);
-      localStorage.setItem(DD_STORAGE_KEY, JSON.stringify(merged));
-      return merged;
+    for (const endpoint of DD_API_ENDPOINTS) {
+      try {
+        const separator = endpoint.includes("?") ? "&" : "?";
+        const response = await fetch(`${endpoint}${separator}ts=${Date.now()}`, {
+          cache: "no-store",
+          headers: { "Cache-Control": "no-cache" },
+        });
+        if (!response.ok) continue;
+        const serverData = await response.json();
+        return ddMergeStoreData(serverData);
+      } catch (error) {}
     }
-    const response = await fetch("/api/site", { cache: "no-store" });
-    if (!response.ok) throw new Error("Store request failed");
-    const serverData = await response.json();
-    const merged = ddMergeStoreData(serverData);
-    localStorage.setItem(DD_STORAGE_KEY, JSON.stringify(merged));
-    return merged;
+    if (embeddedData) return embeddedData;
+    throw new Error("Store request failed");
   } catch {
     return ddLoadStore();
   }

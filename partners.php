@@ -1,10 +1,10 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="uk" class="dd-boot">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
         
-    <style>html.dd-boot:not(.dd-ready) body{visibility:hidden!important}html{overflow-y:scroll;scrollbar-gutter:stable;overflow-x:hidden}</style><script>
+    <style>html.dd-boot:not(.dd-ready) body{visibility:hidden!important}html{overflow-y:scroll;scrollbar-gutter:stable both-edges;overflow-x:hidden}</style><script>
       (function () {
         try {
           document.documentElement.classList.add('dd-boot');
@@ -13,7 +13,7 @@
         } catch (e) {}
       })();
     </script><title>DOUBLE DAMAGE | РџР°СЂС‚РЅРµСЂРё</title>
-  <link rel="stylesheet" href="styles.css?v=101" />
+  <link rel="stylesheet" href="styles.css?v=106" />
   <?php require_once __DIR__ . '/partials/bootstrap.php'; dd_bootstrap_script(); ?>
   </head>
   <body>
@@ -31,9 +31,10 @@
     <main data-info-page="partners"></main>
     <footer class="footer"><span data-footer-copy></span><div><a href="shop.php" data-i18n="shop">Магазин</a><a href="guides.php" data-i18n="guides">Новости</a><a href="events.php" data-i18n="events">Події</a></div></footer>
     <aside class="cart-panel" aria-hidden="true"><div class="cart-head"><div><p class="eyebrow" data-i18n="cart">РљРѕС€РёРє</p><h2 data-i18n="cartOrder">Р’Р°С€Рµ Р·Р°РјРѕРІР»РµРЅРЅСЏ</h2></div><button class="icon-button" type="button" data-cart-close>x</button></div><div class="cart-items" data-cart-items></div><div class="cart-total"><span data-i18n="total">Р Р°Р·РѕРј</span><strong data-cart-total>$0</strong></div></aside><div class="cart-backdrop" data-cart-close></div>
-<script src="store.js?v=11"></script><script src="script.js?v=48"></script>
+<script src="store.js?v=13"></script><script src="script.js?v=50"></script>
   </body>
 </html>
+
 
 
 
